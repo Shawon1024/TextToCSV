@@ -1,4 +1,4 @@
-# TextToCSV
+# Convert a Text File to a CSV File using Python Notebook
 
 In this code, I have demonstrated how to convert a .txt formated file to a .csv formated file which can be later used for other purposes.
 
